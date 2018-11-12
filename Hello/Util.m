@@ -9,7 +9,7 @@
 #import "Util.h"
 
 @implementation Util
-- (NSInteger )add:(NSInteger)x and:(NSInteger)y
++ (NSInteger )add:(NSInteger)x and:(NSInteger)y
 {
     return (x+y);
 }

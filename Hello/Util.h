@@ -12,7 +12,7 @@ NS_ASSUME_NONNULL_BEGIN
 
 @interface Util : NSObject
 
-- (NSInteger )add:(NSInteger)x and:(NSInteger)y;
++ (NSInteger )add:(NSInteger)x and:(NSInteger)y;
 
 
 
